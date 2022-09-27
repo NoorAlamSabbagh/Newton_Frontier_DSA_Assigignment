@@ -1,2 +1,2 @@
-# Newton_Frontier_DSA_Assigignment
+DSA_Problem
 DSA Problem related to Array, Sorting, Searching, Hashmap, LinkedList, Stack, Queue, Dequeue, Strings ....
